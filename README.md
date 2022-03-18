@@ -2,4 +2,4 @@
 Contador feito em javascript
 
 
-Link: https://rianwilliam.github.io/contador/
+Link: <a href="https://rianwilliam.github.io/contador/_blank"> link para o contador </a>
